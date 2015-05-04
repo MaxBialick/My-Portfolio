@@ -4,9 +4,9 @@ html {
 }
 
 body {
-	font-family: "Lato", sans-serif;
-	color: #747704;
-	font-weight: 400;
+		font-family: "Lato", sans-serif;
+		color: #747704;
+		font-weight: 400;
 }
 
 .row {
@@ -32,6 +32,10 @@ body {
 hr.horizontal-rule {
 	height: 4px;
 	background-color: #bcbbbb;
+}
+
+a {
+	color: #747704;
 }
 
 img,
